@@ -1,7 +1,11 @@
 # ChineseMenuCSI
 
-This repository contains the ChineseMenuCSI dataset, introduced in the paper titled "Cultural Adaptation of Menus: A Fine-Grained Approach" (accepted at WMT, Conference on Machine Translation of EMNLP). 
+This repository hosts the **ChineseMenuCSI** dataset, introduced in the paper [**"Cultural Adaptation of Menus: A Fine-Grained Approach"**](https://aclanthology.org/2024.wmt-1.120), presented at the **WMT (Conference on Machine Translation)** at EMNLP 2024.
 
-The dataset focuses on Chinese menus and supports research in cultural adaptation, particularly in the fine-grained translation and analysis of culinary terms across different cultural contexts.
+The **ChineseMenuCSI** dataset is specifically designed for research in cultural adaptation, with a focus on fine-grained translation and analysis of culinary terms in Chinese menus across diverse cultural contexts.
 
-In addition to the dataset, we will also release the code for the menu parser in the near future.
+We plan to release the code for the menu parser associated with this dataset in the near future. Stay tuned for updates!
+
+---
+
+**Authors**: Zhonghe Zhang, Xiaoyu He, Vivek Iyer, Alexandra Birch
